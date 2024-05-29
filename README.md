@@ -1,5 +1,5 @@
 ![migueelss](./bannergh.png)
-I've worked with ![experience](./images/katagif.gif)
+I've worked with ![experience](./images/katanagif.gif)
 
 
 <!--
