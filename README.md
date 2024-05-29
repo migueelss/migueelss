@@ -6,3 +6,4 @@
 <p align='center'>
 <img src="./images/js.png"> <img src="./images/py.png"> <img src="./images/pgsql.png"> <img src="./images/react.png"> <img src="./images/cst.png"> <img src="./images/lua.png"> <img src="./images/nodejs.png"> <img src="./images/android.png">
 <p>
+<p align="center"><img height="20%" width="20%" src="images/katanagif.gif"></p>
