@@ -1,3 +1,1 @@
-<img src="./bannergh.png")>
-<img src="./images/katanagif.gif")>
-
+<img src="./bannergh.png"><br>      
