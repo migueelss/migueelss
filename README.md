@@ -13,6 +13,6 @@
 <p align="center"><b>"You have to be lost to find your way."</b> – <i>Alphonse Elric</i></p>
 <h3 align="center">I work mainly with</h3>
 <p align='center'>
-<img src="./images/js.png"> <img src="./images/python.png"> <img src="./images/nodejs.png"> <img src="./images/react.png"> <img src="./images/cst.png"> <img src="./images/postgresql.png"> <img src="./images/lua.png"> <img src="./images/android.png">
+<img src="./images/js.png"> <img src="./images/python.png"> <img src="./images/nodejs.png"> <img src="./images/react.png"> <img src="./images/cst.png"> <img src="./images/postgres.png"> <img src="./images/lua.png"> <img src="./images/androidmobile.png">
 <p>
 <p align="center"><img height="20%" width="20%" src="images/katanagif.gif"></p>
