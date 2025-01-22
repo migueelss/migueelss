@@ -1,12 +1,8 @@
 <img src="./bannergh.png"><br>
 <span>
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/migueelss?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)"/>
-  <img src="https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCODE-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/FOLLOW-3-02A9FF?logo=github&logoColor=white&style=for-the-badge&labelColor=0288D1"/>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=white&labelColor=02A9FF&style=for-the-badge"/>
 </span>
 <p align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4nfefefbycx4yso5ybfycwvqq&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4nfefefbycx4yso5ybfycwvqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=3d91ff&bar_color_cover=false" alt="spotify-github-profile">
