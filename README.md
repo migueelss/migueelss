@@ -1,7 +1,7 @@
 <img src="./bannergh.png"><br>
 <span>
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/FOLLOW-3-02A9FF?logo=github&logoColor=white&style=for-the-badge&labelColor=0288D1"/>
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <a href="https://open.spotify.com/user/31r4nfefefbycx4yso5ybfycwvqq?si=113bb25022224262"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
   <img src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=white&labelColor=02A9FF&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
