@@ -1,4 +1,3 @@
-<img width="25%" src="./images/snow01.gif"><img width="25%" src="./images/snow01.gif"><img width="25%" src="./images/snow01.gif"><img width="25%" src="./images/snow01.gif">
 <img src="./bannergh.png"><br>
 <span>
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/FOLLOW-4-02A9FF?logo=github&logoColor=white&style=for-the-badge&labelColor=0288D1"/>
