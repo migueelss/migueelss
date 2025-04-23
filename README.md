@@ -7,3 +7,4 @@
 </a></p><br>
 <p align="center"><a href="https://www.buymeacoffee.com/migueelss"><img src="./images/bmc_qrbw.png" width="15%"></a></p><br><br>
 <p><img width="100%" src="./images/smoke.gif"></p>
+<p align="left"><img width="25%" src="./images/snow01.gif"><img width="25%" src="./images/snow01.gif"><img width="25%" src="./images/snow01.gif"><img width="25%" src="./images/snow01.gif"></p>
